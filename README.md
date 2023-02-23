@@ -18,11 +18,13 @@
   <br/><br/>
  
  
-<div style="display: inline_block">
+<div style="display: inline;">
    
   <a href="https://instagram.com/_david.gama" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
   <a href = "mailto:david.gama@ufms.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/david-gama-688639181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://david-portifolio.vercel.app/" target="_blank"><img  height="30" width="100" src="https://user-images.githubusercontent.com/86624625/220980486-54900c31-c202-4b48-aae3-567a0eb32b09.png" target="_blank"></a>     
+  <a href="https://www.linkedin.com/in/david-gama-688639181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  <img  />
 </div>
