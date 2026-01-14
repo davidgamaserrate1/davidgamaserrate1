@@ -21,7 +21,7 @@
 <div style="display: inline;">
    
   <a href="https://instagram.com/_david.gama" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
-  <a href = "mailto:david.gama@ufms.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.davidserrate@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.davidserrate.site" target="_blank"><img  height="30" width="100" src="https://images.squarespace-cdn.com/content/v1/599ed3067131a56df5e1a813/1504720946407-MRAQRXX4IV1CD7W42HXR/portfolio.png?format=2500w" target="_blank"></a>     
   <a href="https://www.linkedin.com/in/david-gama-688639181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
