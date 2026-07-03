@@ -37,13 +37,15 @@ Especializado em integrações ERP, pipelines de dados de alto volume, moderniza
 
 ---
 
-## 📊 Estatísticas
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidgamaserrate1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgamaserrate1&layout=compact&langs_count=12&theme=dracula"/>
-</div>
+## 📊 GitHub
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidgamaserrate1&theme=github_dark)
+
+<p style="display: flex; gap: 15px; flex-wrap: wrap;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidserrate&theme=github_dark" width="47%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidserrate&theme=github_dark&utcOffset=-4" width="47%">
+</p>
 ---
 
 ## 🔗 Conecte-se
