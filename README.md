@@ -12,7 +12,7 @@ Especializado em integrações ERP, pipelines de dados de alto volume, moderniza
 
 **Dados & Performance** — Oracle (PL/SQL, Tuning, Procedures) · PostgreSQL · Redis · RabbitMQ · Query optimization · ETL pipelines
 
-**Infraestrutura** — Docker · Linux · CI/CD · AWS (EC2, S3, Lightsail/) · Git/GitHub/GitLab
+**Infraestrutura** — Docker · Linux · CI/CD · AWS (EC2, S3, Lightsail) · Git/GitHub/GitLab
 
 **Full Stack** — React · React Native · Electron · Tailwind CSS
 
